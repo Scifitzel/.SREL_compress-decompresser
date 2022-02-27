@@ -1,4 +1,4 @@
-# .SREL_compress-decompresser V.0.1
+# .SREL_compress-decompresser V.0.0.1
 
 This app will allow you to make and decompress .SREL files. Available for Windows and Linux
 
